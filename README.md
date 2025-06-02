@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### study of basic gates
 ### Name: Sivabalan M
 
 ### Register Number: 212224230269
